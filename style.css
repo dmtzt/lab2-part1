@@ -1,0 +1,37 @@
+html {
+    background-color: bisque;
+}
+h3 {
+    color:dimgray;
+}
+
+main {
+    background-color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+article {
+    margin: 5px;
+    padding: 10px;
+    border-color: gray;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.article-img {
+    width: 200px;
+    float: right;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+section {
+    border-color: navy;
+    border-width: 10px;
+    border-style: solid;
+}
